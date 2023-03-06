@@ -1,7 +1,8 @@
 # HardLaunch
 A launcher for Hardwar - The Future Is Greedy - Intended to replace Hardman.exe
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Extract HardLaunch.exe (Releases file) or HardLaunch.bat (Source Code file) and the HardLaunch folder included with them to your Hardwar directory to install HardLaunch
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/49579859/223182300-dbaa4e76-0b1b-4094-b788-d124fc7ea123.png)
 ![image](https://user-images.githubusercontent.com/49579859/223016063-a3a6aea0-28ba-435f-868f-4336689da7a4.png)
 ![image](https://user-images.githubusercontent.com/49579859/223016088-867cb5ad-796b-4050-a293-01ba76b0b058.png)
