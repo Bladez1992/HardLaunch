@@ -26,7 +26,7 @@ REM --------------------Main Menu-----------------------------------------------
 :main_menu
 cls
 ECHO			        HardLaunch
-ECHO			         v1.0.7.4
+ECHO			         v1.0.7.5
 ECHO			      By Bladez1992
 ECHO      Credit to Lord Solarix for finding some of these commands!
 ECHO --------------------------------------------------------------------------
@@ -68,32 +68,38 @@ REM --------------------World/Game/Network Commands-----------------------------
 :newworld
 set /p LocalSaveName="What would you like your Local World to be called: "
 @echo off
-start HardwarW.exe /t:new %LocalSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:new %cd%\Savegames\%LocalSaveName%.sav
 goto end
 :newnetworld
 set /p NetSaveName="What would you like your Network Game to be called: "
 @echo off
-start HardwarW.exe /t:new %NetSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:new %cd%\Savegames\%NetSaveName%.sav
 goto end
 :newdedworld
 set /p DedSaveName="What would you like your Dedicated Server to be called: "
 @echo off
-start HardwarW.exe /t:new %DedSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:new %cd%\Savegames\%DedSaveName%.sav
 goto end
 :loadworld
 set /p LoadLocalSaveName="Type your Local World's name to load it: "
 @echo off
-start HardwarW.exe /t:load %LoadLocalSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:load %cd%\Savegames\%LoadLocalSaveName%.sav
 goto end
 :loadnetworld
 set /p LoadNetSaveName="Type your Network Game's name to load it: "
 @echo off
-start HardwarW.exe /t:load %LoadNetSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:load %cd%\Savegames\%LoadNetSaveName%.sav
 goto end
 :loaddedworld
 set /p LoadDedSaveName="Type your Dedicated Server's name to load it: "
 @echo off
-start HardwarW.exe /t:load %LoadDedSaveName%.sav
+set "currentDirectory=%cd%"
+start HardwarW.exe /t:load %cd%\Savegames\%LoadDedSaveName%.sav
 goto end
 :connectnetgame
 start HardwarW.exe /t:connect
