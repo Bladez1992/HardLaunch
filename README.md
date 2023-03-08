@@ -1,13 +1,15 @@
 # HardLaunch
 A launcher for Hardwar - The Future Is Greedy - Intended to replace Hardman.exe
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Extract HardLaunch.exe (Releases file) or HardLaunch.bat (Source Code file) and the HardLaunch folder included with them to your Hardwar directory to install HardLaunch
+Extract HardLaunch.bat and the HardLaunch folder included with them to your Hardwar directory to install HardLaunch
+                                       -- The .exe version is no more --
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/49579859/223182300-dbaa4e76-0b1b-4094-b788-d124fc7ea123.png)
-![image](https://user-images.githubusercontent.com/49579859/223016063-a3a6aea0-28ba-435f-868f-4336689da7a4.png)
-![image](https://user-images.githubusercontent.com/49579859/223016088-867cb5ad-796b-4050-a293-01ba76b0b058.png)
-![image](https://user-images.githubusercontent.com/49579859/223016152-01fac1d3-2324-4d35-a452-e83c393e2891.png)
-![image](https://user-images.githubusercontent.com/49579859/223016213-476f00be-e976-43c7-8044-5ca51ae05c65.png)
-![image](https://user-images.githubusercontent.com/49579859/223016247-d39b50e0-e1c4-449a-accf-e1f8e4f5910a.png)
-![image](https://user-images.githubusercontent.com/49579859/223182395-808ad82e-ec57-42d8-97b1-8aa47ec6c802.png)
-![image](https://user-images.githubusercontent.com/49579859/223016285-412162c9-5a1d-4bfc-b9bd-f8e4f145ac1d.png)
+![image](https://user-images.githubusercontent.com/49579859/223719058-24049c79-9a33-4b35-892a-b6c0e0330386.png)
+![image](https://user-images.githubusercontent.com/49579859/223719138-dcdf388e-4c1c-4c35-91aa-3fae4e9d7c17.png)
+![image](https://user-images.githubusercontent.com/49579859/223719215-8d8f393d-2dc4-4518-819a-07ddc01dafd3.png)
+![image](https://user-images.githubusercontent.com/49579859/223719307-e52a2438-1fed-439b-8051-e8cbd5b4836f.png)
+![image](https://user-images.githubusercontent.com/49579859/223719375-e3b48698-49d5-442b-9c75-c684a0c0a790.png)
+![image](https://user-images.githubusercontent.com/49579859/223719449-d6dfc632-6d61-4bbe-ac60-7f5a2cd732c9.png)
+![image](https://user-images.githubusercontent.com/49579859/223719563-5b9f79ba-bc54-42a5-9bd4-1d30a1a8f661.png)
+![image](https://user-images.githubusercontent.com/49579859/223719731-964802b6-db8e-4e01-b6ab-92948bb5d8cc.png)
+![image](https://user-images.githubusercontent.com/49579859/223719791-693e87d2-e3e6-4675-96a0-ba82dbeea0a8.png)
