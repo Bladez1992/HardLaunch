@@ -13,5 +13,5 @@ Extract HardLaunch.bat and the HardLaunch folder to your Hardwar directory to in
 ![image](https://user-images.githubusercontent.com/49579859/223719375-e3b48698-49d5-442b-9c75-c684a0c0a790.png)
 ![image](https://user-images.githubusercontent.com/49579859/223719449-d6dfc632-6d61-4bbe-ac60-7f5a2cd732c9.png)
 ![image](https://user-images.githubusercontent.com/49579859/223719563-5b9f79ba-bc54-42a5-9bd4-1d30a1a8f661.png)
-![image](https://user-images.githubusercontent.com/49579859/223758201-7d0e9b99-f7c1-4bf0-81e5-80aaa84c9f4b.png)
+![image](https://user-images.githubusercontent.com/49579859/223914885-85327856-0786-4748-a628-ae93f8d0aa17.png)
 ![image](https://user-images.githubusercontent.com/49579859/223719791-693e87d2-e3e6-4675-96a0-ba82dbeea0a8.png)
