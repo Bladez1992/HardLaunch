@@ -4,6 +4,7 @@ Launcher, mod loader, and version switcher for Hardwar TFIG - Intended to replac
 Extract HardLaunch.bat and the HardLaunch folder to your Hardwar directory to install HardLaunch
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 dgVoodoo2 is included in the Version Switcher - props to Dege for his amazing wrapper, without it the version switcher would not have been possible!
+                    -----------------------------------------------------------------------------------------------------
                                                           --  dege.freeweb.hu  --
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/49579859/223978481-b3634716-cf74-429b-b3b0-6031e2b1f2b0.png)
