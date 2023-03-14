@@ -1,11 +1,12 @@
 # HardLaunch
 Launcher, mod loader, and version switcher for Hardwar TFIG - Intended to replace Hardman.exe
+Compatible with the [Zoom](https://www.zoom-platform.com/product/hardwar) and [Steam](https://store.steampowered.com/app/1500540/Hardwar) releases of Hardwar
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Extract HardLaunch.bat, the HardLaunch folder, and the Moth_Skins folder to your Hardwar directory to install HardLaunch - Delete these three items to remove it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 dgVoodoo2 is included in the Version Switcher - props to Dege for his amazing wrapper, without it the version switcher would not have been possible!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                  http://dege.freeweb.hu
+                                                http://dege.freeweb.hu
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/49579859/224608326-91122c59-0bf2-4402-aa06-025daf097def.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
