@@ -1,7 +1,7 @@
 # HardLaunch
 [Launcher, mod loader, and version switcher for Hardwar - Intended to replace Hardman.exe](https://github.com/Bladez1992/HardLaunch/releases)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Compatible with the [Zoom, ](https://www.zoom-platform.com/product/hardwar)[Steam, ](https://store.steampowered.com/app/1500540/Hardwar) and original UIM.06 releases of [Hardwar - The Future Is Greedy](http://zedo.hardwar.info/)
+Compatible with the [Zoom, ](https://www.zoom-platform.com/product/hardwar)[Steam, ](https://store.steampowered.com/app/1500540/Hardwar) and [original UIM.06](http://zedo.hardwar.info/) releases of Hardwar - The Future Is Greedy
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Extract HardLaunch.bat, the HardLaunch folder, and the Moth_Skins folder to your Hardwar directory to install HardLaunch - Delete these three items to remove it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
