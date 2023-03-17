@@ -7,4 +7,4 @@ Extract HardLaunch.bat, the HardLaunch folder, and the Moth_Skins folder to your
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [dgVoodoo2](http://dege.freeweb.hu) is included in the Version Switcher - props to Dege for his amazing wrapper, without it the version switcher would not have been possible!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Watch The Features Overview Here](https://img.youtube.com/vi/D1EbPDN9iPA/0.jpg)](https://www.youtube.com/watch?v=D1EbPDN9iPA)
+[![Watch The Features Overview Here](https://img.youtube.com/vi/D1EbPDN9iPA/1.jpg)](https://www.youtube.com/watch?v=D1EbPDN9iPA)
