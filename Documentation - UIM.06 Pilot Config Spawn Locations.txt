@@ -5,7 +5,7 @@ You should look for strings like this:
 SS_Trader.ERROR: VhSetLoc failed terminally at SS_Trader..JoinNow: Couldn't create vehicle....Alpha Trading Post...
 
 You want to replace Alpha Trading Post with the hangar name of where you want that pilot configuration to spawn
-Just be sure to replace the remaining space with 0's on the hex side
+Just be sure to replace the remaining space with 0's on the hex side if the name is shorter, you cannot make one longer than what you're replacing, as the game will just crash
 Alpha Trading Post...   <---- Original
 God Hangar...........   <---- Example of what it should look like when changed
 
