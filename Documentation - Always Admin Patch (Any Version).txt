@@ -5,5 +5,6 @@ Actually very simple
 
 This should be the only cluster of bytes like this in the whole file
 That's why I didn't include offsets for each version, it's unnecessary
+Doing this on any version below U3.00b1 is pointless (no TI access)
 
 - Bladez1992
