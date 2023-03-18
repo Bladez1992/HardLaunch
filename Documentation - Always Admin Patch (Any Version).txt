@@ -1,0 +1,9 @@
+Actually very simple
+
+90 90 90 90 90      <---- Find these hex bytes in HardwarW.exe
+85 4D 24 00 00      <---- Change them to this
+
+This should be the only cluster of bytes like this in the whole file
+That's why I didn't include offsets for each version, it's unnecessary
+
+- Bladez1992
