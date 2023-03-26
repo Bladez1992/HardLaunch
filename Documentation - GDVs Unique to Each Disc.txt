@@ -1,0 +1,21 @@
+GDVs Unique to Each Disc
+
+Unique to Disc 1
+BOB1, 2, 3, 4, 5, 6
+HARDSELL
+HARDSTAR
+KLM1, 2, 3, 4
+LAZ1, 2, 3
+WAR1, 2, 3
+XAV1, 2, 3
+
+Unique to Disc 2
+APP1, 2, 3, 4, 5, 6
+BOB7, 8, 9
+FINALOUT
+GNG1, 2
+LAZ4
+WAR4
+XAV4
+
+- Bladez1992
