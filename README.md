@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Compatible with the [Zoom](https://www.zoom-platform.com/product/hardwar), [Steam](https://store.steampowered.com/app/1500540/Hardwar), and [original UIM.06](http://zedo.hardwar.info/) releases of Hardwar - The Future Is Greedy
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Extract HardLaunch.bat, the HardLaunch folder, and the Moth_Skins folder to your Hardwar directory to install HardLaunch - Delete these three items to remove it
+Extract HardLaunch.bat, the HardLaunch folder, and the Moth_Skins folder to your Hardwar directory to install HardLaunch - Run Registry Cleanup within HardLaunch, then delete these three items to remove it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [dgVoodoo2](http://dege.freeweb.hu) is included in the Version Switcher - props to Dege for his amazing wrapper, without it the version switcher would not have been possible!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
