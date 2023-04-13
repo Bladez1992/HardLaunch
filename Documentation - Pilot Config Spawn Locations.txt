@@ -1,0 +1,21 @@
+These are the default pilot spawn locations for UIM.06
+Search these in HardwarW.exe to change the spawn location
+
+You should look for strings like this:
+SS_Trader.ERROR: VhSetLoc failed terminally at SS_Trader..JoinNow: Couldn't create vehicle....Alpha Trading Post...
+
+You want to replace Alpha Trading Post with the hangar name of where you want that pilot configuration to spawn
+Just be sure to replace the remaining space with 0's on the hex side
+Alpha Trading Post...   <---- Original
+God Hangar...........   <---- Example of what it should look like when changed
+
+Example (UIM.06)
+Trader - Alpha Trading Post
+Scavenger - Conurbation 2
+Aggressor - Gamma Monorail Depot
+Agitator - Riverside Monorail
+Godfather - Recycle Joint
+Corrupt Cop - Sewage Control
+Dealer - Vacant 0030
+
+- Bladez1992
